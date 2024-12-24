@@ -1,0 +1,4 @@
+# ninja log v5
+2	555	7567572491488601	CMakeFiles/LinearRegression.dir/main.cpp.obj	28011c4933a1940c
+8	583	7567572491774720	CMakeFiles/LinearRegression.dir/LinearRegression.cpp.obj	c3c9e3a189204b3
+583	738	7567572493296221	LinearRegression.exe	bd026231b4e3a4e4
